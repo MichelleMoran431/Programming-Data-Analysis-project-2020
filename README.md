@@ -41,7 +41,8 @@ The following are the variables examined :
 
 Next I looked at creating my own data based on the survey results for each of my choosen variables and to investigate their likely distribution types.
 
-The package used was Numpy.Random : Choice  where the probabilities of each variable was used to calculate the data for the variable, to be similar to the survey results.NP.Random generates arrays of pseudo-random numbers.
+The package used was Numpy.Random : Choice  where the probabilities of each variable was used to calculate the data for the variable, to be similar to the survey results.NP.Random generates arrays of pseudo-random numbers. A Random Seed was use to ensure the same set of data was outputed everytime the code was ran.
+
 
 
 A combination of the matplotlib and seaborn packages are used to visualised the dataset , to investigate the relationships between the variables. 
