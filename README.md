@@ -1,23 +1,20 @@
 ## Module : Programming for Data Analysis GMIT
 
-**
 
-Student : Michelle Moran , G00387856
 
-## **
+**Student : Michelle Moran , G00387856
 
-Project : The Types of Feeding among Mothers in Ireland
-**
+## **Project 2020  Feeding Choices and supports for Irish Mothers 2019 
+
+
 **NB Points to note :
 
  - Jupyter notebook was used to create this project it contains live code, equations , and visualizations and text
  - In this notebook , I have had to import all packages in each code cell in order for it to output. Please take note of this. I have had a number of issues with packages and notebook. The anaconda package has been reinstalled a number of times.
  - All references for material used in this project are detailed in the main notebook "Project 2020  Feeding Choices and supports for Irish Mothers 2019 "
 
-**
-**
 
-Description : 
+**Description : 
 
 Using the National Maternity Experience Survey  as a reference , I examined the results for the topic of Feeding among mothers in Ireland. This survey was completed by mothers :
 
@@ -40,12 +37,12 @@ The following are the variables examined :
  7. Home FeedingSupport
  8. Breastfeeding6months
 
-**
-NB: The support variables data was based on a rating sytem marking from 1-5 , where 5 was positive .
+**NB: The support variables data was based on a rating sytem marking from 1-5 , where 5 was positive .
 
 Next I looked at creating my own data based on the survey results for each of my choosen variables and to investigate their likely distribution types.
 
-The package used was Numpy.Random : Choice  where the probabilities of each variable was used to calculate the data for the variable, to be similar to the survey results. 
+The package used was Numpy.Random : Choice  where the probabilities of each variable was used to calculate the data for the variable, to be similar to the survey results.NP.Random generates arrays of pseudo-random numbers.
+
 
 A combination of the matplotlib and seaborn packages are used to visualised the dataset , to investigate the relationships between the variables. 
 
